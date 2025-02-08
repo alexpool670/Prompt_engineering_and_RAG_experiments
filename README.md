@@ -1,9 +1,9 @@
-# RAG_experiments
+# Prompt_engineering_and_RAG_experiments
 ---
 
 # 🛒 eCommerce Feedback Enhancement System
 
-This project leverages **Retrieval-Augmented Generation (RAG)**, **clustering**, and **time-series analysis** to analyze customer feedback and generate actionable suggestions for enhancing an eCommerce website or mobile app.
+This project leverages **Retrieval-Augmented Generation (RAG)**, **Prompt Engineering**, **clustering**, and **time-series analysis** to analyze customer feedback and generate actionable suggestions for enhancing an eCommerce website or mobile app.
 
 ## ✨ Key Features
 - **Feedback Retrieval**: Uses FAISS to retrieve relevant customer feedback based on user queries.
